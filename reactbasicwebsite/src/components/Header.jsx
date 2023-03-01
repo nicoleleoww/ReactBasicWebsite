@@ -1,12 +1,12 @@
 import React from 'react';
-import Navbar from './Navbar/Navbar';
+import {Navbar} from './Navbar/Navbar';
 
-function Header() {
+export function Header() {
   return (
-    <div>
-      
+    <div className="main">
+      <Navbar />
     </div>
   )
 }
 
-export default Header
+// export default Header

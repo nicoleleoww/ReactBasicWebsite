@@ -2,5 +2,64 @@
 @import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@700&family=Montserrat:wght@300;400;500;600&display=swap');
 
 body{
+  margin: 0;
+  padding: 0;
+  background-color: #000266;
   font-family: 'Montserrat', 'BioRhyme', calibri;
+}
+
+*{
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+input{
+  outline: none;
+  border: none;
+}
+.logo{
+  font-family:'BioRhyme' ;
+  color: #242424;
+}
+.main{
+  width: 100%;
+  height: 768px;
+  position: relative;
+  background: no-repeat;
+  background-size: cover;
+  /*background-image: url("./Images/istockphoto-528631463-612x612.jpg");*/
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 5px 10px 30px rgba(0,0,0,0.4);
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  background-color: #ffffff;
+}
+nav ul{
+  display: flex;
+}
+nav ul li a{
+  font-family: calibri;
+  height: 40px;
+  line-height: 43px;
+  margin: 3px;
+  padding: 0px 2px;
+  display: flex;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #242424;
+  letter-spacing: 1px;
+  border-radius: 2px;
+  transition: 0.4s ease-in-out;
 }
