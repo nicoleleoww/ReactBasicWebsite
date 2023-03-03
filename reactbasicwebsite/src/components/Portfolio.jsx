@@ -1,7 +1,7 @@
 import React from 'react';
 import Cards from './Card/Cards';
 
-export function Services() {
+export function Portfolio() {
   return (
     <div>
       
