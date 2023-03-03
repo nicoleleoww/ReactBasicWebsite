@@ -4,7 +4,7 @@ export function Navbar() {
   return (
     <nav>
       <a href="#" className="logo">
-        UI EXPERT
+        NICOLE'S WEBSITE
       </a>
 
       <input className="menu-btn" type="checkbox"/>
@@ -14,7 +14,7 @@ export function Navbar() {
 
       <ul className="menu">
         <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="#about-section">About</a></li>
         <li><a href="#">Portfolio</a></li>
         <li><a href="#">Contact</a></li>
       </ul>

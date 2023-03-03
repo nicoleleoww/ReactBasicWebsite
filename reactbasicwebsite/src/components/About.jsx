@@ -2,10 +2,12 @@ import React from 'react'
 
 export function About() {
   return (
+    <section id="about-section">
+      
     <div className="about">
 
       <h1>About Me</h1>
-      
+
       <div class="card-row">
         <div class="flip-card">
           <div class="flip-card-inner">
@@ -78,6 +80,7 @@ export function About() {
 
       
     </div>
+    </section>
   )
 }
 
