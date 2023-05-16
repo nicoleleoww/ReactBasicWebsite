@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactBasicWebsite/reactbasicwebsite/static/css/main.607fdb64.css",
-    "main.js": "/ReactBasicWebsite/reactbasicwebsite/static/js/main.95b60549.js",
-    "static/js/787.a08688f2.chunk.js": "/ReactBasicWebsite/reactbasicwebsite/static/js/787.a08688f2.chunk.js",
-    "static/media/portrait.jpg": "/ReactBasicWebsite/reactbasicwebsite/static/media/portrait.bbc841be555f0b33aec0.jpg",
-    "index.html": "/ReactBasicWebsite/reactbasicwebsite/index.html",
-    "main.607fdb64.css.map": "/ReactBasicWebsite/reactbasicwebsite/static/css/main.607fdb64.css.map",
-    "main.95b60549.js.map": "/ReactBasicWebsite/reactbasicwebsite/static/js/main.95b60549.js.map",
-    "787.a08688f2.chunk.js.map": "/ReactBasicWebsite/reactbasicwebsite/static/js/787.a08688f2.chunk.js.map"
+    "main.css": "/ReactBasicWebsite/static/css/main.481a1239.css",
+    "main.js": "/ReactBasicWebsite/static/js/main.571ccd7a.js",
+    "static/js/787.a08688f2.chunk.js": "/ReactBasicWebsite/static/js/787.a08688f2.chunk.js",
+    "static/media/portrait.jpg": "/ReactBasicWebsite/static/media/portrait.bbc841be555f0b33aec0.jpg",
+    "index.html": "/ReactBasicWebsite/index.html",
+    "main.481a1239.css.map": "/ReactBasicWebsite/static/css/main.481a1239.css.map",
+    "main.571ccd7a.js.map": "/ReactBasicWebsite/static/js/main.571ccd7a.js.map",
+    "787.a08688f2.chunk.js.map": "/ReactBasicWebsite/static/js/787.a08688f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.607fdb64.css",
-    "static/js/main.95b60549.js"
+    "static/css/main.481a1239.css",
+    "static/js/main.571ccd7a.js"
   ]
 }
