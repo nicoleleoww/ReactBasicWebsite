@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactBasicWebsite/reactbasicwebsite/static/css/main.607fdb64.css",
+    "main.js": "/ReactBasicWebsite/reactbasicwebsite/static/js/main.95b60549.js",
+    "static/js/787.a08688f2.chunk.js": "/ReactBasicWebsite/reactbasicwebsite/static/js/787.a08688f2.chunk.js",
+    "static/media/portrait.jpg": "/ReactBasicWebsite/reactbasicwebsite/static/media/portrait.bbc841be555f0b33aec0.jpg",
+    "index.html": "/ReactBasicWebsite/reactbasicwebsite/index.html",
+    "main.607fdb64.css.map": "/ReactBasicWebsite/reactbasicwebsite/static/css/main.607fdb64.css.map",
+    "main.95b60549.js.map": "/ReactBasicWebsite/reactbasicwebsite/static/js/main.95b60549.js.map",
+    "787.a08688f2.chunk.js.map": "/ReactBasicWebsite/reactbasicwebsite/static/js/787.a08688f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607fdb64.css",
+    "static/js/main.95b60549.js"
+  ]
+}
